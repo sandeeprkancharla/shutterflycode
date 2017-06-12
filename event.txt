@@ -1,0 +1,5 @@
+"type""verb""key""event_time""last_name""adr_city""adr_state""customer_id""tags""camera_make""camera_model""total_amount"
+"CUSTOMER""NEW""96f55c7d8f42""2017-01-06T12:46:46.384Z""Smith""Middletown""AK"""""""""""
+"SITE_VISIT""NEW""c05e815502f""2017-01-06T12:45:52.041Z""""""""96f55c7d8f42""some key:some value"""""""
+"IMAGE""UPLOAD""d8ede43b1d9f""2017-01-06T12:47:12.344Z""""""""96f55c7d8f42""""Canon""EOS 80D"""
+"ORDER""NEW""68d84e5d1a43""2017-01-06T12:55:55.555Z""""""""96f55c7d8f42""""""""12.34"
